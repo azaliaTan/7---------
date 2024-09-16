@@ -1,0 +1,27 @@
+button{
+    background-color: aquamarine;
+    font-size: 20px;
+    color: black;
+    font-weight: 200;
+    letter-spacing: 3px;
+    border: none;
+
+}
+
+.z{
+    margin: 25px 0;
+
+}
+.obl{
+    height: 2000px;
+    margin-top: 150px;
+    background-color: beige;
+    position: relative;
+}
+
+#ball{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+
+}
